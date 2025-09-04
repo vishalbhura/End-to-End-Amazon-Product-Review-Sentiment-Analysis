@@ -27,13 +27,13 @@ The Amazon reviews full score dataset is constructed by randomly taking 6,00,000
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/amri-tah/Amazon-Reviews-Sentiment-Analysis.git
+    git clone https://github.com/vishalbhura/End-to-End-Amazon-Product-Review-Sentiment-Analysis.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Amazon-Reviews-Sentiment-Analysis
+    cd End-to-End-Amazon-Product-Review-Sentiment-Analysis
     ```
 
 3. Install dependencies:
@@ -74,3 +74,4 @@ The Amazon reviews full score dataset is constructed by randomly taking 6,00,000
 #### Multi Review:
 ![](screenshots/multi-review-1.jpg)
 ![](screenshots/multi-review-2.jpg)
+
